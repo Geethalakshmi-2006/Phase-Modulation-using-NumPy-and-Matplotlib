@@ -95,10 +95,7 @@ plt.show()
 
 ### Output
 <img width="989" height="890" alt="image" src="https://github.com/user-attachments/assets/ac260dd1-ca27-478c-9cf6-a9f5e2964383" />
-### RESULT
-The message signal, carrier signal, and phase-modulated (PM) signal will be displayed in separate plots. 
-The modulated signal will show phase variations corresponding to the amplitude of the message signal.
-
 
 ### Result
+The message signal, carrier signal, and phase-modulated (PM) signal will be displayed in separate plots. The modulated signal will show phase variations corresponding to the amplitude of the message signal.
 
